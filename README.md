@@ -81,5 +81,5 @@ A relational database system designed for managing student registration processe
 
 ## Contact
 
-**LinkedIn:**  [LinkedIn](linkedin.com/in/sultan-al-jobran-3525ab2b2) 
+**LinkedIn:**  [LinkedIn]([linkedin.com/in/sultan-al-jobran-3525ab2b2](https://www.linkedin.com/in/sultan-al-jobran-3525ab2b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPZXQdEv%2BQrymBFB1V%2F5M8A%3D%3D)) 
 **GitHub:** [https://github.com/sultanaljobran-spec](https://github.com/sultanaljobran-spec)
