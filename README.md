@@ -1,16 +1,16 @@
 # Sultan Aljobran
 
-**Information Systems Graduate | Business Intelligence | Systems Analysis | Data Analytics**
+**Information Systems Graduate | Business Intelligence | Data Analytics | Systems Analysis | Enterprise Applications | Cybersecurity Risk Management | IT Governance**
 
-Information Systems graduate focused on building practical, data-driven solutions that support better business decisions. Skilled in SQL, Python, Power BI, Business Intelligence, Database Design, and System Analysis, with hands-on experience developing dashboards, database systems, and analytical applications.
+Information Systems graduate focused on building practical, data-driven solutions that support business decision-making, operational efficiency, and technology governance. Skilled in SQL, Python, Power BI, Business Intelligence, Data Analytics, Systems Analysis, Enterprise Applications, Cybersecurity Risk Management, and IT Governance.
 
 ---
 
 ## About Me
 
-I am an Information Systems graduate with a strong interest in Business Intelligence, Data Analytics, and enterprise systems. My work combines technical problem-solving with business process understanding, including SQL querying, Python development, Power BI reporting, database design, and system analysis.
+I am an Information Systems graduate with a strong interest in Business Intelligence, Data Analytics, Systems Analysis, Enterprise Applications, Cybersecurity Risk Management, and IT Governance. My work combines technical problem-solving with business process understanding, including SQL querying, Python development, Power BI reporting, database design, application development, dashboard analytics, and governance-focused reporting.
 
-I enjoy transforming raw data and business requirements into clear, usable solutions such as dashboards, database models, and decision-support tools. My academic and project experience has helped me build a foundation in requirements analysis, ERD modeling, normalization, reporting, and application development.
+I enjoy transforming raw data, business requirements, and operational workflows into clear, usable solutions such as dashboards, database models, enterprise applications, risk registers, and decision-support tools. My academic and project experience has helped me build a foundation in requirements analysis, ERD modeling, normalization, reporting, application development, compliance mapping, and executive analytics.
 
 ---
 
@@ -18,14 +18,18 @@ I enjoy transforming raw data and business requirements into clear, usable solut
 
 ### IT Helpdesk AI Ticketing System
 
-An AI-powered helpdesk ticketing system designed to classify and manage IT support requests more efficiently. The project demonstrates practical use of Python, Flask, SQLite, and Machine Learning to support automated ticket categorization and improve IT service workflows.
+AI-powered IT support ticket management system with machine learning classification, reporting dashboards, ticket tracking, and support analytics.
 
 **Technologies:**
 
 - Python
 - Flask
 - SQLite
+- SQL
 - Machine Learning
+- HTML
+- CSS
+- JavaScript
 
 **GitHub:** [IT Helpdesk AI Ticketing System](https://github.com/sultanaljobran-spec/it-helpdesk-ai-ticket-classifier)
 
@@ -33,14 +37,16 @@ An AI-powered helpdesk ticketing system designed to classify and manage IT suppo
 
 ### Sales Intelligence Dashboard
 
-A business intelligence dashboard created to analyze sales performance, identify trends, and support data-driven reporting. The project highlights skills in Power BI, SQL, Data Analysis, and Reporting through interactive visuals and business-focused insights.
+Business intelligence and sales analytics project with SQL reporting, Python data processing, dashboard analytics, and Power BI integration.
 
 **Technologies:**
 
-- Power BI
 - SQL
-- Data Analysis
-- Reporting
+- Python
+- Pandas
+- Power BI
+- Business Intelligence
+- Data Analytics
 
 **GitHub:** [Sales Intelligence Dashboard](https://github.com/sultanaljobran-spec/sales-intelligence-dashboard)
 
@@ -48,16 +54,59 @@ A business intelligence dashboard created to analyze sales performance, identify
 
 ### Student Registration Database System
 
-A relational database system designed for managing student registration processes. The project focuses on database planning, ERD creation, normalization, and SQL-based data structure design to support accurate and organized academic records.
+University registration database system demonstrating database design, normalization, ERD modeling, SQL reporting, and academic analytics.
 
 **Technologies:**
 
 - SQL
-- ERD
+- SQLite
 - Database Design
+- ERD
 - Normalization
+- Data Modeling
 
 **GitHub:** [Student Registration Database System](https://github.com/sultanaljobran-spec/student-registration-database-system)
+
+---
+
+### Smart Inventory Management System
+
+Enterprise inventory management platform with product management, supplier management, stock transactions, dashboard analytics, CSV and Excel reporting.
+
+**Technologies:**
+
+- Python
+- Flask
+- SQLite
+- SQL
+- Chart.js
+- HTML
+- CSS
+- JavaScript
+- Excel Export
+
+**GitHub:** [Smart Inventory Management System](https://github.com/sultanaljobran-spec/smart-inventory-management-system)
+
+---
+
+### Cybersecurity Risk Management Dashboard
+
+Enterprise cybersecurity governance platform featuring risk registers, compliance mapping, incident management, mitigation tracking, executive dashboards, and CSV/Excel reporting.
+
+**Technologies:**
+
+- Python
+- Flask
+- SQLite
+- SQL
+- Chart.js
+- Cybersecurity Risk Management
+- IT Governance
+- Compliance
+- Incident Management
+- Excel Export
+
+**GitHub:** [Cybersecurity Risk Management Dashboard](https://github.com/sultanaljobran-spec/cybersecurity-risk-management-dashboard)
 
 ---
 
@@ -67,19 +116,28 @@ A relational database system designed for managing student registration processe
 - Python
 - Power BI
 - Business Intelligence
-- Data Analysis
+- Data Analytics
 - Database Design
 - ERD
-- System Analysis
+- Systems Analysis
+- Enterprise Applications
+- Cybersecurity Risk Management
+- IT Governance
+- Compliance
+- Incident Management
+- Data Modeling
+- Pandas
+- Chart.js
 - HTML
 - CSS
 - JavaScript
 - Flask
 - SQLite
+- Excel Export
 
 ---
 
 ## Contact
 
-**LinkedIn:** Add LinkedIn URL  
+**LinkedIn:** [https://www.linkedin.com/in/sultan-al-jobran-3525ab2b2/](https://www.linkedin.com/in/sultan-al-jobran-3525ab2b2/)  
 **GitHub:** [https://github.com/sultanaljobran-spec](https://github.com/sultanaljobran-spec)
